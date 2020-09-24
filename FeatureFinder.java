@@ -1,9 +1,5 @@
 /*******************************************************************************
  *  Name:    Jayson Wu
- *  NetID:   jnwu
- *
- *  Partner Name:    Connie Xu
- *  Partner NetID:   clxu
  *
  *  Description:  Finds the eyes and mouth in a image. findFeatures outputs
  *                a queue that contains the eyes (first 2 points), the left and
